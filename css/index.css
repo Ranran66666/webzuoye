@@ -1,0 +1,358 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: gainsboro;
+	display: flex;
+	justify-content: center;
+}
+.nox{
+	width: 900px;
+	height: 20px;
+	background-color: black; 
+}
+.nox a{
+	text-decoration: none;
+	color: white;
+	float: right;
+	padding-left: 20px;
+}
+.nav{
+	width: 900px;
+	text-align: center;
+	background-color: black;
+}
+.nav li{
+	margin:50px;
+	list-style:none; 
+	font-size: 18px;
+	display:inline;
+	line-height: 40px;
+}
+.nav a{
+	text-decoration: none;
+	color: white;
+}
+.aa img{
+	float: left;
+	height: 350px;
+	width: 400px;
+}
+.aaa{
+	background-color: darkgray;
+	height: 350px;
+}
+.aaa h1{
+	text-align: center;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+.aaa a{
+	text-decoration: none;
+	color: blue;
+}
+.aaa h2{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.aaa h3{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.bb{
+	height: 520px;
+	background-color:whitesmoke;
+}
+.bb h1{
+	text-align: center;
+	padding-top: 10px;
+}
+.bb h3{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bbb{
+	float: left;
+	height: 180px;
+	width: 450px;
+}
+.bbb p{
+	line-height: 25px;
+}
+.ccc{
+	float: right;
+}
+.ccc img{
+	height: 460px;
+	width: 450px;
+	
+}
+.hhh{
+	height: 1800px;
+	width: 900px;
+}
+.hhh h1{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.hhh h1{
+	background-color: gray;
+}
+.dd{
+	height: 400px;
+	width: 900px;
+	background-color: #BEBEBE;
+}
+.dd a{
+	list-style: none;
+	text-decoration: none;
+}
+.b{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.b img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.b h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.c{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.c img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.c h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.d{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.d img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.d h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.ee{
+	height: 800px;
+	width: 900px;
+	background-color: #BEBEBE;
+}
+.ee a{
+	list-style: none;
+	text-decoration: none;
+}
+.f{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.f img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.f h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.g{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.g img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.g h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.h{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.h img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.h h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.i{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.i img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.i h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.j{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.j img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.j h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.k{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.k img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.k h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.ff{
+	height: 400px;
+	width: 900px;
+	background-color: #BEBEBE;
+}
+.ff a{
+	list-style: none;
+	text-decoration: none;
+}
+.l{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.l img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.l h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.m{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.m img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.m h3{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.n{
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+.n img{
+	height: 300px;
+	width: 270px;
+	margin-left: 15px;
+}
+.n h3{
+	margin-top: 10px;
+	text-align: center;
+}
+.zz{
+	height: 1050px;
+	width: 900px;
+	background-color: white;
+
+}
+.z img{
+	float: left;
+	height: 350px;
+	width: 450px;
+	
+}
+.zzz{
+	float: left;
+	height: 350px;
+	width: 450px;
+}
+.zz h1{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 15px;
+}
+.zz p{
+	line-height: 30px;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.yyy{
+	float: left;
+	height: 350px;
+	width: 450px;
+	background-color:#BEBEBE ;
+}
+.yyy h1,h2{
+	text-align: center;
+	padding-top: 30px;
+}
+.y img{
+	float: left;
+	height:350px ;
+	width: 450px;
+}
+.x img{
+	float: left;
+	height:350px ;
+	width: 450px;
+}
+.xxx{
+	float: left;
+	height: 350px;
+	width: 450px;
+}
+.xxx h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}

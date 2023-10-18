@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:black;
+}
+.xyx{
+	height: 750px;
+	width: 900px;
+	text-align: center;
+	background-image: url("../img/10.jpg");
+}
+.xyx a{
+	list-style: none;
+	text-decoration: none;
+	font-size: 50px;
+	font-weight: bold;
+	color: #0B486B;  /* fallback for old browsers */
+	color: -webkit-linear-gradient(to right, #F56217, #0B486B);  /* Chrome 10-25, Safari 5.1-6 */
+	color: linear-gradient(to right, #F56217, #0B486B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

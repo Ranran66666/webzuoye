@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#login{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:750px;
+	
+	width:auto;
+	background: #41295a;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container{
+	background: #42275a;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #734b6d, #42275a);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #734b6d, #42275a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	height: 400px;
+	width: 500px;
+	text-align: center;
+}
+.title{
+	font-size: 30px;
+	color: blue;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.user_name{
+	display: flex;
+	justify-content: center;
+	line-height: 40px;
+	padding-bottom:20px ;
+}
+.user-pwd{
+	display: flex;
+	justify-content: center;
+	line-height: 45px;
+	padding-bottom: 20px;
+}
+#upwd{
+	margin-left: 36px;
+}
+span{
+	font-size: 23px;
+	
+}
+.btn{
+	padding: 20px 10px 20px 20px;
+} 
+.btn1{
+	height: 30px;
+	width: 40px;
+	margin-right: 20px;
+}
+.btn2{
+	height: 30px;
+	width: 40px;
+	margin-left: 20px;
+}
+.reg{
+	float: right;
+	margin-right: 20px;
+} 
+a{
+	color: blue;
+}
+#error_name{
+	color: red;
+}
+#error_pwd{
+	color: red;
+}
+#error_pwd_id{
+	color: red;
+}
